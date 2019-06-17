@@ -1,5 +1,7 @@
 # Scala-Resources
 
+List of Scala resources for web apps and data science. 
+
 # Web Apps
 
 ## Frameworks for Building Web Apps
@@ -15,8 +17,6 @@
 
 
 # Data Science Resources
-
-# Scala-DS-Resources
 
 ## Jupyter Kernal
 
